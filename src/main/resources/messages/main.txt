@@ -1,0 +1,10 @@
+Hey! This is a Telegram Bot that use *ChatGPT* to speak with You!
+
+*A chat Bot can do*:
+1. Answer different questions. 😎
+2. Speak with you and discuss topics. 😘
+
+*Useful commands:*
+
+/start - Main menu. 😎
+/gpt - Go to GPT. 🧠
